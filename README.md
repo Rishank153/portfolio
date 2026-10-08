@@ -2,6 +2,8 @@
 
 Formal single-page portfolio (HTML, CSS, vanilla JavaScript).
 
+**Live site:** [https://rishank153.github.io/portfolio/](https://rishank153.github.io/portfolio/)
+
 ## Preview
 
 ```bash
